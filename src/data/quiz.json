@@ -1,49 +1,49 @@
 {
   "data": [
     {
-      "question": "What is the capital of Croatia ?",
-      "choices": ["Split", "Osijek", "Zagreb", "Rijeka"],
-      "answer": "Zagreb"
+      "question": "What is the capital of the United Kingdom?",
+      "choices": ["London", "Manchester", "Birmingham", "Edinburgh"],
+      "answer": "London"
     },
     {
-      "question": "What is the capital of Slovenia ?",
-      "choices": ["Celje", "Ljubljana", "Maribor", "Koper"],
-      "answer": "Ljubljana"
+      "question": "What is the capital of France?",
+      "choices": ["Lyon", "Paris", "Marseille", "Nantes"],
+      "answer": "Paris"
     },
     {
-      "question": "What is the capital of Austria ?",
-      "choices": ["Graz", "Salzburg", "Innsbruck", "Vienna"],
-      "answer": "Vienna"
+      "question": "What is the largest country in the world by area?",
+      "choices": ["China", "Canada", "Russia", "USA"],
+      "answer": "Russia"
     },
     {
-      "question": "What is the capital of Serbia ?",
-      "choices": ["Belgrade", "Novi Sad", "Niš", "Subotica"],
-      "answer": "Belgrade"
+      "question": "What is the most spoken language in the world?",
+      "choices": ["Spanish", "Mandarin Chinese", "English", "Arabic"],
+      "answer": "English"
     },
     {
-      "question": "What is the capital of Bosnia and Herzegovina ?",
-      "choices": ["Mostar", "Sarajevo", "Banja Luka", "Tuzla"],
-      "answer": "Sarajevo"
+      "question": "How many countries are there in the world?",
+      "choices": ["210", "190", "197", "167"],
+      "answer": "197"
     },
     {
-      "question": "What is the capital of Hungary ?",
+      "question": "What is the capital of Hungary?",
       "choices": ["Zalaegerszeg", "Eger", "Szeged", "Budapest"],
       "answer": "Budapest"
     },
     {
-      "question": "What is the capital of Slovakia ?",
+      "question": "What is the capital of Slovakia?",
       "choices": ["Košice", "Nitra", "Bratislava", "Poprad"],
       "answer": "Bratislava"
     },
     {
-      "question": "What is the capital of Romania ?",
-      "choices": ["Bucharest", "Craiova", "Constanta", "Braila"],
-      "answer": "Bucharest"
+      "question": "What is the longest river in the world?",
+      "choices": ["Amazon River", "Yangtze River", "Yellow River", "Nile"],
+      "answer": "Nile"
     },
     {
-      "question": "What is the capital of Germany ?",
-      "choices": ["Wolfsburg", "Munich", "Berlin", "Frankfurt"],
-      "answer": "Berlin"
+      "question": "Which planet is the closes to Earth?",
+      "choices": ["Mars", "Mercury", "Jupiter", "Venus"],
+      "answer": "Mercury"
     }
   ]
 }
